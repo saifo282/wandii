@@ -1,0 +1,58 @@
+body{
+  background-color: #f7dad9;
+}
+h1{
+margin-left: 200px;
+font-family: 'Big Shoulders Stencil Text', cursive;
+}
+h2{
+}
+h3{
+
+}
+.artist{
+  margin-left: 250px;
+}
+.top-container{
+  margin-left: 330px;
+
+}
+.middle-container{
+ margin: auto;
+}
+.bottom-container{
+text-align: center;}
+.top-cloud{
+margin-left: 600px;
+}
+.bottom-cloud{
+position: absolute;
+top: 200px;
+color: black;
+
+}
+.welcome{
+  margin-left: 150px;
+}
+
+.profile-pic{
+  width: 50%;
+  margin-left: 600px;
+  align-items: center;
+  padding: 0 0 0 100px;
+
+  margin: auto;
+}
+.Qualifuation{
+  text-align: center;
+}
+
+.skill{
+
+  text-align: center;
+
+}
+
+.hobbie{
+  text-align: center;
+}
